@@ -1,0 +1,19 @@
+.class1 {
+  background-color: #f791a0;
+  font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+#number2 {
+  color: blue;
+  font-size: 36px;
+}
+
+#number4 {
+  background-color: #90ee90;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.coolclass {
+  font-size: 24px;
+}
